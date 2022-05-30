@@ -1,0 +1,78 @@
+street_id,street_name,x1,y1,x2,y2
+Lynd1,Lyndhurst Road,121,60,85,360
+Little1,Little Lane,85,360,151,363
+Little2,Little Lane,151,363,249,370
+Little3,Little Lane,249,370,302,375
+Little4,Little Lane,302,375,346,378
+Little5,Little Lane,346,378,380,354
+Little6,Little Lane,380,354,436,317
+Little7,Little Lane,436,317,492,280
+Little8,Little Lane,492,280,508,270
+East1,East Street,508,270,468,187
+East2,East Street,468,187,418,78
+East3,East Street,418,78,398,32
+Kings1,Kingsway,398,32,363,38
+Kings2,Kingsway,363,38,330,45
+Kings3,Kingsway,330,45,287,56
+Kings4,Kingsway,287,56,222,56
+Kings5,Kingsway,222,56,173,58
+Kings6,Kingsway,173,58,121,60
+Lancast1,Lancaster Avenue,173,58,171,80
+Lancast2,Lancaster Avenue,171,80,166,152
+Lancast3,Lancaster Avenue,166,152,159,240
+Lancast4,Lancaster Avenue,159,240,154,315
+Lancast5,Lancaster Avenue,154,315,151,363
+Staff1,Stafford Street,171,80,136,86
+Staff2,Stafford Street,136,86,130,149
+Staff3,Stafford Street,130,149,166,152
+Merlin1,Merlin Close,154,315,178,318
+Merlin2,Merlin Close,178,318,203,320
+Merlin3,Merlin Close,203,320,249,324
+Went1,Wentworth Road,159,240,182,242
+Went2,Wentworth Road,182,242,207,244
+Went3,Wentworth Road,207,244,254,247
+Went4,Wentworth Road,254,247,300,250
+Belved1,Belvedere Road,166,152,190,153
+Belved2,Belvedere Road,190,153,212,153
+Belved3,Belvedere Road,212,153,290,155
+Grange1,Grange Close,171,80,194,77
+Grange2,Grange Close,194,77,217,74
+Grange3,Grange Close,217,74,234,71
+Grange4,Grange Close,234,71,254,69
+Saxon1,Saxon Close,194,77,190,153
+Saxon2,Saxon Close,190,153,182,242
+Saxon3,Saxon Close,182,242,178,318
+North1,North Road,217,74,212,153
+North2,North Road,212,153,210,194
+North3,North Road,210,194,207,244
+North4,North Road,207,244,203,320
+Brook1,Brook Close,254,247,249,324
+Brook2,Brook Close,249,324,249,370
+Ferry1,Ferry Road,222,56,234,71
+Ferry2,Ferry Road,234,71,290,155
+Ferry3,Ferry Road,290,155,292,167
+Ferry4,Ferry Road,292,167,300,250
+Ferry5,Ferry Road,300,250,302,325
+Ferry6,Ferry Road,302,325,302,375
+Second1,Second Avenue,254,69,331,153
+Second2,Second Avenue,331,153,337,189
+Second3,Second Avenue,337,189,349,272
+Second4,Second Avenue,349,272,355,324
+Second5,Second Avenue,355,324,380,354
+Kenil1,Kenilworth Road,210,194,292,167
+Kenil2,Kenilworth Road,292,167,331,153
+Kenil3,Kenilworth Road,331,153,346,141
+Kenil4,Kenilworth Road,346,141,381,113
+Kenil5,Kenilworth Road,381,113,418,78
+Glebe1,Glebe Street,302,325,355,324
+Bishop1,Bishops Close,330,45,346,141
+Bishop2,Bishops Close,346,141,361,187
+Bishop3,Bishops Close,361,187,410,274
+Bishop4,Bishops Close,410,274,436,317
+Sand1,Sandown Road,363,38,381,113
+Sand2,Sandown Road,381,113,430,189
+Sand3,Sandown Road,430,189,492,280
+Will1,Willow Court,337,189,361,187
+Will2,Willow Court,361,187,430,189
+Will3,Willow Court,430,189,468,187
+Moore1,Moorland Road,349,272,410,274

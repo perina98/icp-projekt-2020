@@ -1,0 +1,4 @@
+line_name,stops,street_ids,times_in_minutes,no_of_buses_on_road
+Green,Lynd 1-Little 1-Little 3-Glebe 1-Second 4-Little 7-Sand 3-Sand 2-Kenil 2-Kenil 1-North 1-King 6,Lynd1-Little1-Little2-Little3-Ferry6-Glebe1-Second4-Moore1-Bishop4-Little7-Sand3-Sand2-Kenil4-Kenil3-Kenil2-Kenil1-North2-North1-Grange3-Ferry1-Kings5-Kings6,00-07-12-17-21-26-32-36-42-48-53-55,10
+Yellow,Bishop 1-Kenil 2-Ferry 2-Lancast 2-North 4-Little 3-Little 5-Little 7-East 2-East 3,Bishop1-Kenil3-Kenil2-Ferry3-Ferry2-Ferry1-Kings5-Lancast1-Lancast2-Belved1-Belved2-North2-North3-North4-Merlin3-Brook2-Little3-Little4-Little5-Little6-Little7-Little8-East1-East2-East3-Kings1-Kings2,00-10-16-20-30-40-48-52-55-57,10
+Blue,Second 4-Second 2-Second 1-Grange 1-Staff 2-Lancas 3-North 4-Went 3-Ferry 5-Glebe 1,Second4-Second3-Second2-Second1-Grange4-Grange3-Grange2-Grange1-Staff1-Staff2-Staff3-Lancast3-Lancast4-Merlin1-Merlin2-North4-Went3-Went4-Ferry5-Glebe1,00-07-13-19-26-32-39-44-51-55,10
